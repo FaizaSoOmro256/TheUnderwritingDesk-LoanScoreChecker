@@ -280,13 +280,13 @@ Start the backend before the frontend so the app connects to the real model on f
 - Loan approval recommendation engine
 - Multi-model ensemble learning
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Faiza Soomro**
 
 Full Stack Web Developer & AI/ML Engineer
 
-Passionate about building intelligent applications using Machine Learning, Artificial Intelligence, Python, and modern web technologies.
+Building scalable web applications and AI-powered solutions using Python, Machine Learning, Artificial Intelligence, and modern frontend technologies.
 
 GitHub:  
 https://github.com/FaizaSoOmro256
@@ -294,21 +294,32 @@ https://github.com/FaizaSoOmro256
 LinkedIn:  
 https://www.linkedin.com/in/faiza-shafi-muhammad-a1a92325b/
 
-## ⭐ Support This Project
+
+---
+
+## ⭐ Show Your Support
 
 If you found this project useful, innovative, or helpful, please consider giving it a ⭐ star on GitHub.
 
-Your support motivates further improvements, new features, and more open-source AI projects.
+Your support motivates continuous improvements, new features, and the development of more open-source AI projects.
 
-⭐ **Rate this project:**  
-https://github.com/FaizaSoOmro256/CodeAlpha_LanguageTranslationToolAI
+⭐ Star this repository:
+https://github.com/FaizaSoOmro256/TheUnderwritingDesk-LoanScoreChecker
 
-Thank you for your support! 🚀
 
-# 📄 License
+---
+
+## 📄 License
 
 This project is licensed under the **MIT License**.
 
-You are free to use, modify, distribute, and improve this project for personal, educational, and commercial purposes, provided that the original author is credited.
+The MIT License allows users to:
 
-See the [LICENSE](LICENSE) file for more details.
+- Use the project for personal or commercial purposes
+- Modify and improve the source code
+- Distribute original or modified versions
+- Use the project privately
+
+The only requirement is to keep the original copyright notice and license terms.
+
+Copyright © 2026 Faiza Soomro
