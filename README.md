@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Credit Scoring System
 
 A machine learning system that predicts loan default risk from applicant and loan data, with a cost-sensitive decision framework and a full-stack web application for real-time scoring.
@@ -221,7 +220,3 @@ Start the backend before the frontend so the app connects to the real model on f
 ## Author
 
 Developed by **Faiza Soomro**
-=======
-# TheUnderwritingDesk-LoanScoreChecker
-Machine learning-based credit risk assessment platform with FastAPI backend, React frontend, and real-time loan default prediction.
->>>>>>> 761fea9f6a2f46005dc09609f1b498375caf45ab
