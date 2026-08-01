@@ -1,10 +1,17 @@
 # Credit Scoring System
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A machine learning system that predicts loan default risk from applicant and loan data, with a cost-sensitive decision framework and a full-stack web application for real-time scoring.
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Methodology](#methodology)
@@ -22,6 +29,8 @@ A machine learning system that predicts loan default risk from applicant and loa
 - [User Guide](#user-guide)
 - [Setup Instructions](#setup-instructions)
 - [Tech Stack](#tech-stack)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 
 ## Overview
 
@@ -30,6 +39,19 @@ The goal of this project is to predict whether a loan applicant is likely to def
 The project has two parts:
 1. **Model development** (`notebook/`) — data cleaning, feature engineering, model training, evaluation, and cost analysis.
 2. **Web application** (`backend/`, `frontend/`) — a FastAPI service serving the trained model, and a React dashboard for scoring applicants interactively.
+
+## Features
+
+- Predicts loan default risk using Machine Learning
+- Cost-sensitive decision analysis for lending
+- FastAPI REST API for real-time predictions
+- Modern React dashboard with Tailwind CSS
+- Batch applicant scoring using CSV upload
+- Interactive credit score gauge
+- Model comparison and performance metrics
+- Feature importance and explainability
+- Configurable decision thresholds
+- Client-side fallback prediction when the backend is unavailable
 
 ## Dataset
 
@@ -213,10 +235,57 @@ Start the backend before the frontend so the app connects to the real model on f
 
 ## Tech Stack
 
-- **Modeling**: Python, pandas, scikit-learn
-- **Backend**: FastAPI, uvicorn, joblib
-- **Frontend**: React, Vite, Tailwind CSS, Recharts, Lucide icons
+### Machine Learning & Data Science
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Backend
+
+- FastAPI
+- Uvicorn
+- Pydantic
+- Joblib
+
+### Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- Recharts
+- Lucide React
+- PapaParse
+
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+- npm
+- PostCSS
+- Autoprefixer
+
+## Future Improvements
+
+- SHAP explainability
+- Docker support
+- Cloud deployment
+- User authentication
+- Database integration
+- Loan approval recommendation engine
+- Multi-model ensemble learning
 
 ## Author
 
-Developed by **Faiza Soomro**
+**Faiza Soomro**
+
+AI & Machine Learning Enthusiast
+
+GitHub: https://github.com/FaizaSoOmro256
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
