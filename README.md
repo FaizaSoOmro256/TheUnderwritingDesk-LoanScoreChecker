@@ -280,12 +280,27 @@ Start the backend before the frontend so the app connects to the real model on f
 - Loan approval recommendation engine
 - Multi-model ensemble learning
 
-## Author
+# 👩‍💻 Author
 
 **Faiza Soomro**
 
-AI & Machine Learning Enthusiast
+Full Stack Web Developer & AI/ML Engineer
 
-GitHub: https://github.com/FaizaSoOmro256
+Passionate about building intelligent applications using Machine Learning, Artificial Intelligence, Python, and modern web technologies.
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+GitHub:  
+https://github.com/FaizaSoOmro256
+
+LinkedIn:  
+https://www.linkedin.com/in/faiza-shafi-muhammad-a1a92325b/
+
+## ⭐ Support This Project
+
+If you found this project useful, innovative, or helpful, please consider giving it a ⭐ star on GitHub.
+
+Your support motivates further improvements, new features, and more open-source AI projects.
+
+⭐ **Rate this project:**  
+https://github.com/FaizaSoOmro256/CodeAlpha_LanguageTranslationToolAI
+
+Thank you for your support! 🚀
