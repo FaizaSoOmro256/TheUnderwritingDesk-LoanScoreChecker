@@ -304,3 +304,11 @@ Your support motivates further improvements, new features, and more open-source 
 https://github.com/FaizaSoOmro256/CodeAlpha_LanguageTranslationToolAI
 
 Thank you for your support! 🚀
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and improve this project for personal, educational, and commercial purposes, provided that the original author is credited.
+
+See the [LICENSE](LICENSE) file for more details.
